@@ -1,0 +1,8 @@
+{
+    "rules": {
+        "require-direct-export": "off",
+        "vue/require-direct-export": ["error", {
+            "disallowFunctionalComponentFunction": false
+        }]
+    }
+}
